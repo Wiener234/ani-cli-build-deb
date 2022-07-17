@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 16 Jul 2022 17:51:44 +0200
+Source: ani-cli
+Binary: ani-cli
+Architecture: source all
+Version: 3.2.2-2
+Distribution: unstable
+Urgency: medium
+Maintainer: Nils Wiemer <wiemernils@gmail.com>
+Changed-By: Nils Wiemer <wiemernils@gmail.com>
+Description:
+ ani-cli    - A cli to browse and watch anime (alone AND with friends).
+Closes: 817
+Changes:
+ ani-cli (3.2.2-2) unstable; urgency=medium
+ .
+   * Closes: #817
+   * change from aria2 to axel
+Checksums-Sha1:
+ e093614b890d926b0dce9b886fa7c928b03e30aa 1744 ani-cli_3.2.2-2.dsc
+ db18fd579c8c8d2e4a132fd6bfafb933fe8f444e 2560 ani-cli_3.2.2-2.debian.tar.xz
+ e337beed82d9f4eb7046ed7fda1fb6134ca53c7c 12628 ani-cli_3.2.2-2_all.deb
+ 2fcf3f51154cd31de7a20fabbe240d4462c5c12f 5807 ani-cli_3.2.2-2_amd64.buildinfo
+Checksums-Sha256:
+ ebf91a9b42710fb79ff3dc9a0bb25e1c355c8af4d8689686396ee17dc308094b 1744 ani-cli_3.2.2-2.dsc
+ ef4cc864d3156383c343bd0be3f7c257fbba8b88d4822c774d300a37fde3eec4 2560 ani-cli_3.2.2-2.debian.tar.xz
+ 9b3cc23c9cbf918b57e1188faa496201e3af0c97c2095becee94bc159a83c44f 12628 ani-cli_3.2.2-2_all.deb
+ eb76b5d844ef3c5755b58258f942cdf7d632fb76f84f948d02c09b3943b76781 5807 ani-cli_3.2.2-2_amd64.buildinfo
+Files:
+ 1b6cd9cd21e18b372a9ec7cd7fb0e919 1744 video optional ani-cli_3.2.2-2.dsc
+ 4f8b381926a3a09a4077077c145e3595 2560 video optional ani-cli_3.2.2-2.debian.tar.xz
+ 1fe813a34620975073562a7fd7174b41 12628 video optional ani-cli_3.2.2-2_all.deb
+ f7e49d0793e72cfadeeea9030c4c3b4d 5807 video optional ani-cli_3.2.2-2_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJJBAEBCgAzFiEEYtRDa8tncEWC/P24tk3KEFPGR40FAmLS4C4VHHdpZW1lcm5p
+bHNAZ21haWwuY29tAAoJELZNyhBTxkeNDlcQAJLpV5UJAtVJa0lSyTyh6Y1wktJ8
+gUMKAi5bDWD/Npgao8e7LA7yiXYqYrXJ3IO/x6sf6oDUYutmth1BAu5xgw+d4Kn6
+moYhu3T1NitC+RZNgKzoGSPSYwSz/IWjxtrW7xXxH8TfQUkDzdSfKONIFuyI9K/b
+T9BQD+BsWkWHe1jKCOK1FwqqkEedSWIrFEjt5RK2SnCdm1Txiivm4s42CeyetMWV
+a3lY/OFObVr1T71FX9k8t6vJlUSe1lJmLp0c/uWdE44gPdg/IytPPK1OTGqj/XQf
+cWpgEjd+PHSILHByCVtGA1g3FGMZ7iEK/R7zXvKewqdQnnGQNduppfsJUQwR/wUj
+So+Av28ZbXXrRfAZD1OQIw8ai1bE4qxQ+ij/ci606//+d52W4a07GBDW4REDTkC3
+n9WKag4rxeXUaJch9rbRX6EzQ2PSKfdvIuLAldhdlk4kQf32lLXKoKgMYhUVg77W
+y3mLcpFtiTnCZTinLYG3w2JTa2sHhrR6InDtH5hB8yaXh3yiGMnvPwHw4Ur4Wuo/
+25YUloQUFGfujDv5i9NlgDTLVZg2XWly0nMHMSEj63aGILbkpW8HK/+d7pM/q8gB
+UJab5jYY4g7LyzhLWGW+OPX3eR1F6O/L1ZqwfRSV3cIdrllMhP41enbtpquptWob
+Lih9lx90LM/ljlqU
+=STTS
+-----END PGP SIGNATURE-----

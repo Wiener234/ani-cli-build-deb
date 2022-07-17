@@ -1,0 +1,6 @@
+bin/ani-cli bin
+lib/ani-cli/UI lib/ani-cli
+lib/ani-cli/player_download lib/ani-cli
+lib/ani-cli/player_mpv lib/ani-cli
+lib/ani-cli/player_syncplay lib/ani-cli
+lib/ani-cli/player_vlc lib/ani-cli

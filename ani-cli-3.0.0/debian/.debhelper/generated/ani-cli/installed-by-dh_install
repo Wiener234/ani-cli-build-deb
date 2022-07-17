@@ -1,0 +1,6 @@
+./UI
+./ani-cli
+./players/player_download
+./players/player_mpv
+./players/player_syncplay
+./players/player_vlc

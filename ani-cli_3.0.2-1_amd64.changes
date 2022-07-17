@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Wed, 15 Jun 2022 22:38:41 +0200
+Source: ani-cli
+Binary: ani-cli
+Architecture: source all
+Version: 3.0.2-1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Nils Wiemer <wiemernils@gmail.com>
+Changed-By: Nils Wiemer <wiemernils@gmail.com>
+Description:
+ ani-cli    - A cli to browse and watch anime (alone AND with friends).
+Closes: 764
+Changes:
+ ani-cli (3.0.2-1) UNRELEASED; urgency=medium
+ .
+   * Closes: #764
+   * fixes search engine
+   *
+Checksums-Sha1:
+ 5830349a6e7ce2c1a68ee9b2a242c8d905c244ae 832 ani-cli_3.0.2-1.dsc
+ af96572a93d73dec19c20d468377c77891273914 11813391 ani-cli_3.0.2.orig.tar.gz
+ fc448e5630f7c7f5883b62e46fc9c0f1bbe58cb9 3500 ani-cli_3.0.2-1.debian.tar.xz
+ 4c84c7b7e6524d3ad12343bb8f3981915e27e55b 10756 ani-cli_3.0.2-1_all.deb
+ 5049d347b9510b819a4bf0c21b34676f8163603a 4892 ani-cli_3.0.2-1_amd64.buildinfo
+Checksums-Sha256:
+ 3dde987a1ca7e86d1f416838c922414b2ca3e3af043447d0f64a7d98327bd6a5 832 ani-cli_3.0.2-1.dsc
+ 964081c3b34dcfaf171468caa8e79e3b144a28809409dd7dfb1507986a8540c4 11813391 ani-cli_3.0.2.orig.tar.gz
+ 2bb18e9d146d1c93101ee4c22cf01076087b220118767e0898d1f11830391aba 3500 ani-cli_3.0.2-1.debian.tar.xz
+ e129032de0354045bfa8ba098d51964a6248cb9f591c269d87858abd0ec7be5f 10756 ani-cli_3.0.2-1_all.deb
+ 59f806be7fc3ad6c8ed59034a34391ce86f24b718719b760e2d52b15de7911be 4892 ani-cli_3.0.2-1_amd64.buildinfo
+Files:
+ db4dcb660e1f2759aa2003a2aad4fb53 832 video optional ani-cli_3.0.2-1.dsc
+ d47abb8a1765768e3ee916ec69710322 11813391 video optional ani-cli_3.0.2.orig.tar.gz
+ 490a7a28190e5b54118233f92d024b2e 3500 video optional ani-cli_3.0.2-1.debian.tar.xz
+ e3e8b56e7f9c41367b174b9d9bb4861e 10756 video optional ani-cli_3.0.2-1_all.deb
+ 88979af7553491d0e1764755c77763a4 4892 video optional ani-cli_3.0.2-1_amd64.buildinfo

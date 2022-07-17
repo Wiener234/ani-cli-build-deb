@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 24 Jun 2022 20:31:37 +0200
+Source: ani-cli
+Binary: ani-cli
+Architecture: source all
+Version: 3.2.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Nils Wiemer <wiemernils@gmail.com>
+Changed-By: Nils Wiemer <wiemernils@gmail.com>
+Description:
+ ani-cli    - A cli to browse and watch anime (alone AND with friends).
+Closes: 697
+Changes:
+ ani-cli (3.2.0-1) unstable; urgency=medium
+ .
+   * Closes: #697
+   * initial release
+   *
+   *
+Checksums-Sha1:
+ a6f25064cd57e5f920e6af35c683696f3194e896 1738 ani-cli_3.2.0-1.dsc
+ 9719182fcb27e8c5e8688ffcddde5831dffefe08 122098 ani-cli_3.2.0.orig.tar.gz
+ a4ad357f0028475fce1f62db0370c4bbfd446286 2416 ani-cli_3.2.0-1.debian.tar.xz
+ 0269efe4fba9154a05eb6eace224ec12b61d0370 11036 ani-cli_3.2.0-1_all.deb
+ 2064c36297bea0feaf37a19c01595b1d94245607 5807 ani-cli_3.2.0-1_amd64.buildinfo
+Checksums-Sha256:
+ 2e6c5c57ade1d441cb899d539bdcefdfc12b393e96d2a260dbbfd4123092e590 1738 ani-cli_3.2.0-1.dsc
+ 601476b32fb1a263b59b797fda0586fda277abf9410eb5d3ab21110766c35360 122098 ani-cli_3.2.0.orig.tar.gz
+ ad9a9cc7ba5edcd69c029542fe6267881de8aca87fc46f4cf90190478b2a51fb 2416 ani-cli_3.2.0-1.debian.tar.xz
+ 79cf50690404afd5b76d4b8378d51efbc81b1b9a48c42a255f79dddaab29ec7d 11036 ani-cli_3.2.0-1_all.deb
+ 89bd525d9a87d5dac39e59e259b1150e65e5ee49eb65240c677b6b7d62351780 5807 ani-cli_3.2.0-1_amd64.buildinfo
+Files:
+ 57c3716572caeb858549a9c5a13514c9 1738 video optional ani-cli_3.2.0-1.dsc
+ 052a6fbcb08c904510923f15e8cd99a5 122098 video optional ani-cli_3.2.0.orig.tar.gz
+ f8177312b20907942eae9cd547f6b5bd 2416 video optional ani-cli_3.2.0-1.debian.tar.xz
+ 70b5e50ce7c9b5961b35deac355b72d4 11036 video optional ani-cli_3.2.0-1_all.deb
+ 9f35b0c6f15bc1163ada2ea1b3d09e0c 5807 video optional ani-cli_3.2.0-1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJJBAEBCgAzFiEEYtRDa8tncEWC/P24tk3KEFPGR40FAmK2BmUVHHdpZW1lcm5p
+bHNAZ21haWwuY29tAAoJELZNyhBTxkeNSbwP/1sXSZGpVna1MzLYuH+QUR78A4Wv
+e8VEvNRnXRxwfCKxTE0ZBZPQ5F9zjsg3FqpDTAgOPurkoLt/jvfIDPHPlTO1VrR5
+eHQJXJ6GkDHtVeZPqSHcHOktlUzfS+h3UZHTnpOQVl5Z0m5D8otmfn16iXQL21py
+BPQHSu7hMg6OJqG2HiiRNDljK8GLVjSe5iW3Ms1DuVZti2I+36h2oSZSlQNkez4h
++k9ibvOzqvjwJX8FHLwnwhoG0bs/axmjnD03UvG6eAIEFN+fNj74uEW3fq06GXEn
+wMw843G0LWqrmrWaV6oTN7uoEPzIWFNdrNh8iholac3ubImZKv00gx4co6KKL09Q
+/tzWQVhgE0o/7nG3Dt6yZKEjyEOOdsCKveSbdM8brA5mYWgNpOyv7cuOlXQQRxvm
+w92wa9BGMCByL7lwK/G4MBAHjiSyMxPYAJTRP3v58p0iNGnTDEukOd6vEUDy1AgO
+soysZqEHPOQg31pIYJRKhuzFMMVcDncE23Zeuw5c8Rv49TSULF0Rjpe7feDcnGom
+p7B/tf9nCbgvtchyk9Z239QOUhIS9q3c+z7Lu5usy2OxI7t+1zshY0qsFI4a2iM3
+6DblgcP7kDVguhZ794H3kXoKN3oUxDaD4VhuPPW5PNeYFcgXJAnb44+FoHBmJvUb
+IFiImUc0YaKrf18L
+=BLga
+-----END PGP SIGNATURE-----

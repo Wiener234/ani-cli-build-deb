@@ -1,0 +1,9 @@
+4c05b1d0dea00d548407c38433300bdb  usr/bin/UI
+443e641481b57e27a0af2293f9c55187  usr/bin/ani-cli
+d106e044e353e568f007698cd0ff395e  usr/bin/player_download
+02a74040a90a8784f9cf6185f841aa26  usr/bin/player_mpv
+9259b668b52092693155a036b81fd477  usr/bin/player_syncplay
+8e8b8f71c95d2cf3b88fa12792836056  usr/bin/player_vlc
+19cd224d7b60d3c715c2f0e5ee9df605  usr/share/doc/ani-cli/README.Debian
+5f7f176547e27741a2e9bcf4dc94fd6f  usr/share/doc/ani-cli/changelog.Debian.gz
+159551b54c2695cb3ca6fbe28524f62e  usr/share/doc/ani-cli/copyright

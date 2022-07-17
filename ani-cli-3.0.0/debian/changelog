@@ -1,0 +1,13 @@
+ani-cli (3.0-1) UNRELEASED; urgency=medium
+
+  * Update to version 3.0
+  * rewrite of the program
+
+ -- Nils Wiemer <wiemernils@gmail.com>  Wed, 15 Jun 2022 18:43:04 +0200
+
+ani-cli (2.2-1) unstable; urgency=medium
+
+  * Initial release. Closes: #0697
+  * takes care of the .deb package part
+
+ -- Nils Wiemer <wiemernils@gmail.com>  Sat, 21 May 2022 13:16:46 +0200

@@ -1,0 +1,6 @@
+UI usr/bin
+ani-cli usr/bin
+players/player_download usr/bin
+players/player_mpv usr/bin
+players/player_syncplay usr/bin
+players/player_vlc usr/bin

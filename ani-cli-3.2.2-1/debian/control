@@ -1,0 +1,21 @@
+Source: ani-cli
+Section: video
+Priority: optional
+Maintainer: Nils Wiemer <wiemernils@gmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.5.0
+Homepage: https://github.com/pystardust/ani-cli
+
+Package: ani-cli
+Architecture: all
+Multi-Arch: foreign
+Depends: aria2,
+         curl,
+         ffmpeg,
+         grep(>=3.6),
+         mpv,
+         openssl,
+         sed(>=4.7),
+         ${misc:Depends}
+Description: A cli to browse and watch anime (alone AND with friends).
+ This tool scrapes the site gogoplay.

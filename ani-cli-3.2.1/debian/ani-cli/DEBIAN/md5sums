@@ -1,0 +1,9 @@
+ce5f7ae7ba350371c95d7ddde4553a1b  bin/ani-cli
+cf6a84ba6edd8300fd3b52df9ffa0a9d  lib/ani-cli/UI
+9be52b16495cce4b306ba864f1f16e44  lib/ani-cli/player_download
+10e8e931c76668bab992e97bb8d51194  lib/ani-cli/player_mpv
+e261e8d560eab119f60df15f57bdde15  lib/ani-cli/player_syncplay
+c2a5a7a56eb15e130deed18f3fded58c  lib/ani-cli/player_vlc
+19cd224d7b60d3c715c2f0e5ee9df605  usr/share/doc/ani-cli/README.Debian
+7bd822781d5019166acc71b676251772  usr/share/doc/ani-cli/changelog.Debian.gz
+159551b54c2695cb3ca6fbe28524f62e  usr/share/doc/ani-cli/copyright

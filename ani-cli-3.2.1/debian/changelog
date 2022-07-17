@@ -1,0 +1,22 @@
+ani-cli (3.2.1-1) unstable; urgency=medium
+
+  * Closes: #795
+  * fixes search engine
+
+ -- Nils Wiemer <wiemernils@gmail.com>  Sat, 25 Jun 2022 21:26:00 +0200
+
+ani-cli (3.2.0-1) unstable; urgency=medium
+
+  * Closes: #697
+  * initial release
+  * 
+  * 
+
+ -- Nils Wiemer <wiemernils@gmail.com>  Fri, 24 Jun 2022 20:31:37 +0200
+
+ani-cli (2.2-1) unstable; urgency=medium
+
+  * Initial release. Closes: #0697
+  * takes care of the .deb package part
+
+ -- Nils Wiemer <wiemernils@gmail.com>  Sat, 21 May 2022 13:16:46 +0200
